@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+.main-logo{
+  width: 120px;
+  background: rgba(255,255,255,.2);
+  border-radius: 6px;
+  margin-inline-end: 24px;
+  height: 32px;
+}
